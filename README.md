@@ -1,4 +1,4 @@
-# Global-Payroll-Vendor-Cost-Analysis-and-  
+# Global Payroll Vendor Cost Analysis Dashboard
 
 # Overview:
 This project aims to streamline and automate the process of analyzing payroll vendor costs and generating a global dashboard for ABC Company. The current setup involves multiple analysts collecting data from various regions, which is then manually consolidated and reported on a monthly basis. The project seeks to create a centralized and automated solution that provides real-time global metrics for better cost management.  
